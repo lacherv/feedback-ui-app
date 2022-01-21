@@ -4,7 +4,7 @@ const App = () => {
     
     return (
         <>
-        <Header  />
+        <Header />
             <div className="container">
                 My App
             </div>
