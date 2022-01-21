@@ -1,3 +1,4 @@
+import FeebackItem from "./components/FeedbackItem";
 import Header from "./components/Header";
 
 const App = () => {
@@ -6,7 +7,7 @@ const App = () => {
         <>
         <Header />
             <div className="container">
-                My App
+              <FeebackItem />
             </div>
         </>
     )
